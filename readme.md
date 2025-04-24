@@ -1,9 +1,9 @@
-# Hi there, I'm Jabir! 👋
-![Profile Banner](computer-pressing.gif)
+![Profile Banner](Tech.png)
 
 ## 🛠️ Technologies & Tools
-- **Languages:** python, javascript, typescript
-- **Frameworks and Libraries:** NextJS, FastApi, Express, React
+- **Languages:** python, javascript, typescript, SQL
+--**Database** Postegresql, Mongodb
+- **Frameworks and Libraries:** NextJS, FastApi, Express, React, Prisma
 - **Tools:** Figma, VsCode, Ai, Jira
 
 ## 🌐 Connect with Me
