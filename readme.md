@@ -1,4 +1,4 @@
-![Readme image](Tech.png)
+![Readme image](image.png)
 
 ## 🛠️ Technologies & Tools
 - **Languages:** python, javascript, typescript, SQL
