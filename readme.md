@@ -1,4 +1,4 @@
-![Profile Banner](Tech.png)
+![Readme image](Tech.png){height=200px}
 
 ## 🛠️ Technologies & Tools
 - **Languages:** python, javascript, typescript, SQL
