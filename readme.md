@@ -1,4 +1,4 @@
-![Image Banner](image.png)
+![Image Banner](banner.png)
 
 ---
 
