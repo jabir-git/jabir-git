@@ -1,4 +1,4 @@
-![Image Banner](banner.png)
+![Image Banner](banner.png){ width=100% }
 
 ---
 
